@@ -1,6 +1,6 @@
 # Atividade da disciplina Sistemas Multimídia
 
-Alunos: Gabriel Trindade e Gustavo Santos
+Alunos: Gustavo Santos
 
-Linguagens utilizadas Python e C++
+Linguagens utilizadas Javascript
 
